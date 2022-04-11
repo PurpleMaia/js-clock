@@ -1,4 +1,6 @@
-# Purple Mai'a X Hiapo present our Introduction to Javacript course for Salesforce certified profesioanls
+# Purple Mai'a X Hiapo
+
+Presenting our **Introduction to Javacript** course for Salesforce Certified Profesioanls.
 
 In this lesson, we'll learn some basic HTML, CSS, and JavaScript to create a working digital clock.
 
